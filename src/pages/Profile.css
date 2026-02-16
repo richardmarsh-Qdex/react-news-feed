@@ -1,0 +1,30 @@
+.profile {
+  padding: 2rem 0;
+}
+
+.profile-content {
+  background: white;
+  padding: 2rem;
+  border-radius: 8px;
+}
+
+.profile-info {
+  margin-bottom: 2rem;
+}
+
+.preferences {
+  margin-top: 2rem;
+}
+
+.categories {
+  display: flex;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+}
+
+.category-tag {
+  background: #007bff;
+  color: white;
+  padding: 0.5rem 1rem;
+  border-radius: 4px;
+}
